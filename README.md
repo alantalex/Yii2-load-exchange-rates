@@ -1,4 +1,4 @@
-"# Yii2-load-exchange-rates" 
+# Yii2-load-exchange-rates 
 
 In various projects, there is a need for multicurrency.
 
